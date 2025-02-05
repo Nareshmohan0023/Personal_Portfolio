@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+  --pure-black: #000000;
+  --shade-black: #333333;
+  --text-color: #ffffff;
+  --grey: #b3b3b3;
+  --primary-green: #18d26e;
+  --other-font: "Inter", serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cabin", serif;
+  /* include padding and border while definig width */
+}
